@@ -1,0 +1,2 @@
+#Snake
+Snakes are elongated, legless, carnivorous reptiles of the suborder Serpentes /sɜːrˈpɛntiːz/.[2] Like all other squamates, snakes are ectothermic, amniote vertebrates covered in overlapping scales.
